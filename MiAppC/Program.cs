@@ -80,7 +80,7 @@ namespace MiAppC
             ruedas = 4;
             ancho = 0.800;
             largo = 2300.5;
-            tapiceria = "tela de tipo a";
+            tapiceria = "tela de tipo b ";
         }
 
         public Coche(double largoCoche, double anchoCoche)
