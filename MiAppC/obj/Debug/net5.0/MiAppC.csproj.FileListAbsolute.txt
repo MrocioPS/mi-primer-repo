@@ -1,0 +1,16 @@
+C:\Users\Ps\source\repos\MiAppC\MiAppC\bin\Debug\net5.0\MiAppC.exe
+C:\Users\Ps\source\repos\MiAppC\MiAppC\bin\Debug\net5.0\MiAppC.deps.json
+C:\Users\Ps\source\repos\MiAppC\MiAppC\bin\Debug\net5.0\MiAppC.runtimeconfig.json
+C:\Users\Ps\source\repos\MiAppC\MiAppC\bin\Debug\net5.0\MiAppC.runtimeconfig.dev.json
+C:\Users\Ps\source\repos\MiAppC\MiAppC\bin\Debug\net5.0\MiAppC.dll
+C:\Users\Ps\source\repos\MiAppC\MiAppC\bin\Debug\net5.0\MiAppC.pdb
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\MiAppC.csproj.AssemblyReference.cache
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\MiAppC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\MiAppC.AssemblyInfoInputs.cache
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\MiAppC.AssemblyInfo.cs
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\MiAppC.csproj.CoreCompileInputs.cache
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\MiAppC.dll
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\refint\MiAppC.dll
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\MiAppC.pdb
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\MiAppC.genruntimeconfig.cache
+C:\Users\Ps\source\repos\MiAppC\MiAppC\obj\Debug\net5.0\ref\MiAppC.dll

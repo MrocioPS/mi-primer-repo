@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UUzcz8cjKxMJXo3wjcifQMQx9ULhMNFeMF1TPMmfDjfIIzQv7NAWfvqo25Ni9wqiKGXURTWxSsf8ig9AeKFmHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ps\\source\\repos\\MiAppC\\MiAppC\\MiAppC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ps\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
